@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Maajed Salmin</h1>
-<h3 align="center">A passionate Tech Enthusiast & frontend developer from Kenya</h3>
+<h3 align="center">A passionate Tech Enthusiast & Full Stack Developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/wed-developer-programmer-coding-augmented-reality-screen-premium-vector_375605-332.jpg?w=1060">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maajed&label=Profile%20views&color=0e75b6&style=flat" alt="maajed" /> </p>
@@ -17,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/soykini11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soykini11" height="30" width="40" /></a>
 <a href="https://instagram.com/soykini11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soykini11" height="30" width="40" /></a>
 </p>
 
