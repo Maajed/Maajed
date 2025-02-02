@@ -1,17 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Maajed Salmin</h1>
-<h3 align="center">A passionate Tech Enthusiast & Full Stack Developer from Kenya</h3>
+<h3 align="center">A passionate Tech Enthusiasta, Data Analyst/ FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/wed-developer-programmer-coding-augmented-reality-screen-premium-vector_375605-332.jpg?w=1060">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maajed&label=Profile%20views&color=0e75b6&style=flat" alt="maajed" /> </p>
 
 <p align="left"> <a href="https://twitter.com/soykini11" target="blank"><img src="https://img.shields.io/twitter/follow/soykini11?logo=twitter&style=for-the-badge" alt="soykini11" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning about **Data Analytics**
 
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **majeeed.kini@gmail.com**
+- 📫 How to reach me **majed.salah00@gmail.com**
 
 - ⚡ Fun fact **I think i can be fun to work with, and very open minded to learning new things and collaborating.**
 
